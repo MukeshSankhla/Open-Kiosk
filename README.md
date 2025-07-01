@@ -1,5 +1,6 @@
 # Open Kiosk - DIY Smart POS System
 
+![Open Kiosk Demo](https://github.com/MukeshSankhla/Open-Kiosk/blob/main/images/GPH.gif)
 ![Open Kiosk Demo](https://github.com/MukeshSankhla/Open-Kiosk/blob/main/images/GIF.gif)
 
 **Build your own professional point-of-sale system for retail stores, market vendors, and pop-up shops!**
@@ -32,15 +33,17 @@ Perfect for boutiques, food stalls, mobile kiosks, and any retail environment.
 - **Communication:** UART for printer connectivity
 
 ## Resources
-
-🔗 **GitHub Repository:** [Open-Kiosk App](https://github.com/MukeshSankhla/Open-Kiosk-App)  
-🔗 **Project Images:** [Open-Kiosk/images](https://github.com/MukeshSankhla/Open-Kiosk/tree/main/images)  
 🔗 **Hackster.io Guide:** [Open Kiosk Project](https://www.hackster.io/mukesh-sankhla/open-kiosk-build-your-own-smart-pos-system-for-retail-stores)  
 🎥 **Video Demo:** [YouTube Tutorial](https://youtu.be/sL1OeTtPDf0)
+🔗 **GitHub Repository:** [Open-Kiosk App](https://github.com/MukeshSankhla/Open-Kiosk-App)  ** [Open-Kiosk](https://github.com/MukeshSankhla/Open-Kiosk/tree/main/images) 
 
 ## Getting Started
 
 This project requires basic electronics knowledge, beginner-friendly coding skills, and DIY enthusiasm. Follow the complete step-by-step guide on Hackster.io to build your own Open Kiosk system.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
