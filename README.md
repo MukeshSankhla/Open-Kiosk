@@ -1,6 +1,6 @@
 # Open Kiosk - DIY Smart POS System
 
-![Open Kiosk Demo](https://github.com/MukeshSankhla/Open-Kiosk/raw/main/images/GIF.gif)
+![Open Kiosk Demo](https://github.com/MukeshSankhla/Open-Kiosk/blob/main/images/GIF.gif)
 
 **Build your own professional point-of-sale system for retail stores, market vendors, and pop-up shops!**
 
