@@ -1,4 +1,4 @@
-# Open Kiosk - DIY Smart POS System
+# Open Kiosk - Build Your Own Smart POS System
 
 ![Open Kiosk Demo](https://github.com/MukeshSankhla/Open-Kiosk/blob/main/images/GPH.gif)
 ![Open Kiosk Demo](https://github.com/MukeshSankhla/Open-Kiosk/blob/main/images/GIF.gif)
