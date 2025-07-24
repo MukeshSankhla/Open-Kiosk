@@ -42,6 +42,5 @@ This project requires basic electronics knowledge, beginner-friendly coding skil
 
 ## License [OSHW CC BY-SA]([https://youtu.be/sL1OeTtPDf0](https://certification.oshwa.org/in000074.html))
 <img width="590" height="165" alt="image" src="https://github.com/user-attachments/assets/c733aeee-eb92-4ec4-8e9a-00a026f79d2d" />
----
-
+[OSHW CC BY-SA]([https://youtu.be/sL1OeTtPDf0](https://certification.oshwa.org/in000074.html))
 *Transform your retail business with a custom POS solution built by you, for you.*
