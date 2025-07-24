@@ -1,4 +1,4 @@
-# Open Kiosk - DIY Point of Sale System 🏪
+# Open Kiosk - DIY Point of Sale System
 
 [![License: CC BY-SA](https://img.shields.io/badge/License-CC%20BY--SA-blue.svg)](https://certification.oshwa.org/in000074.html)
 [![Hardware: Open Source](https://img.shields.io/badge/Hardware-Open%20Source-green.svg)](https://certification.oshwa.org/in000074.html)
@@ -64,35 +64,6 @@ Testing:     Jest + React Testing Library
 - Basic electronics knowledge
 - 3D printer access (or printing service)
 
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/MukeshSankhla/Open-Kiosk-App.git
-   cd Open-Kiosk-App
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   pip install -r requirements.txt
-   ```
-
-3. **Configure Firebase**
-   ```bash
-   cp .env.example .env
-   # Add your Firebase configuration
-   ```
-
-4. **Start development server**
-   ```bash
-   npm run dev
-   ```
-
-5. **Hardware Setup**
-   - Follow the complete [Hardware Assembly Guide](https://www.hackster.io/mukesh-sankhla/open-kiosk-build-your-own-smart-pos-system-for-retail-stores)
-   - Connect thermal printer via UART
-   - Configure ESP32 S3 firmware
 
 ## 📚 Documentation & Resources
 
@@ -101,8 +72,6 @@ Testing:     Jest + React Testing Library
 | **📖 Complete Build Guide** | [Hackster.io Project](https://www.hackster.io/mukesh-sankhla/open-kiosk-build-your-own-smart-pos-system-for-retail-stores) | Step-by-step hardware and software setup |
 | **🎥 Video Tutorial** | [YouTube Demo](https://youtu.be/sL1OeTtPDf0) | Complete walkthrough and demonstration |
 | **💻 Software Repository** | [Open-Kiosk-App](https://github.com/MukeshSankhla/Open-Kiosk-App) | Main application code and updates |
-| **🏗️ Hardware Files** | [Open-Kiosk Hardware](https://github.com/MukeshSankhla/Open-Kiosk) | 3D models, schematics, and assembly guides |
-| **📋 API Documentation** | [Wiki](https://github.com/MukeshSankhla/Open-Kiosk-App/wiki) | API reference and integration guides |
 
 ## 🏪 Perfect For
 
@@ -112,33 +81,6 @@ Testing:     Jest + React Testing Library
 - **Service Businesses** - Salons, repair shops, consultations
 - **Mobile Vendors** - Market vendors, traveling merchants
 
-## 🎯 Use Cases & Examples
-
-### Small Retail Store Setup
-```
-Hardware Cost: ~$300-500
-Monthly Savings: $50-100 (vs traditional POS)
-ROI Period: 3-6 months
-```
-
-### Market Vendor Configuration  
-```
-Portable Setup: Battery powered option
-Offline Mode: Works without internet
-Quick Setup: 15-minute deployment
-```
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-### Development Setup
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/amazing-feature`
-3. Commit changes: `git commit -m 'Add amazing feature'`
-4. Push to branch: `git push origin feature/amazing-feature`
-5. Open a Pull Request
-
 ## 📄 License & Certification
 
 This project is licensed under **Creative Commons Attribution-ShareAlike (CC BY-SA)** and is certified as **Open Source Hardware** by OSHWA.
@@ -146,26 +88,6 @@ This project is licensed under **Creative Commons Attribution-ShareAlike (CC BY-
 <img src="https://github.com/user-attachments/assets/c733aeee-eb92-4ec4-8e9a-00a026f79d2d" alt="OSHWA Certification" width="200"/>
 
 **Certification ID**: [IN000074](https://certification.oshwa.org/in000074.html)
-
-## 🆘 Support & Community
-
-- **🐛 Bug Reports**: [GitHub Issues](https://github.com/MukeshSankhla/Open-Kiosk-App/issues)
-- **💬 Discussions**: [GitHub Discussions](https://github.com/MukeshSankhla/Open-Kiosk-App/discussions)  
-- **📧 Email**: support@openkiosk.dev
-- **📱 Community**: [Discord Server](https://discord.gg/openkiosk)
-
-## 🎉 Success Stories
-
-> *"Open Kiosk saved our small bakery $100/month in POS fees and gave us complete control over our system!"* - Sarah's Bakery
-
-> *"Perfect for our farmer's market booth - portable, reliable, and completely customizable."* - Green Valley Farms
-
-## 🗺️ Roadmap
-
-- [ ] **Q3 2025**: Mobile app for inventory management
-- [ ] **Q4 2025**: Multi-location support  
-- [ ] **Q1 2026**: Advanced analytics dashboard
-- [ ] **Q2 2026**: Integration marketplace
 
 ---
 
