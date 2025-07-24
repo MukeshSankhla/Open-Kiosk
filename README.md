@@ -1,4 +1,4 @@
-<img width="590" height="165" alt="image" src="https://github.com/user-attachments/assets/2f6127b6-c6aa-4051-8161-f67588676b55" /># Open Kiosk - Build Your Own Smart POS System
+Smart POS System
 
 ![Open Kiosk Demo](https://github.com/MukeshSankhla/Open-Kiosk/blob/main/images/DIY.png)
 ![Open Kiosk Demo](https://github.com/MukeshSankhla/Open-Kiosk/blob/main/images/GPH.gif)
