@@ -42,10 +42,9 @@ Perfect for boutiques, food stalls, mobile kiosks, and any retail environment.
 
 This project requires basic electronics knowledge, beginner-friendly coding skills, and DIY enthusiasm. Follow the complete step-by-step guide on Hackster.io to build your own Open Kiosk system.
 
-## License
+## License [OSHW CC BY-SA]([https://youtu.be/sL1OeTtPDf0](https://certification.oshwa.org/in000074.html))
 
-This project is licensed under the MIT License
-
+![Open Kiosk Demo](blob:https://certification.oshwa.org/863935f9-3286-4d08-9502-fa55e4d3e685)
 ---
 
 *Transform your retail business with a custom POS solution built by you, for you.*
