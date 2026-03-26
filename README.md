@@ -4,7 +4,7 @@
 [![Hardware: Open Source](https://img.shields.io/badge/Hardware-Open%20Source-green.svg)](https://certification.oshwa.org/in000074.html)
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)]()
 
-![Open Kiosk Demo](https://github.com/MukeshSankhla/Open-Kiosk/blob/main/images/DIY.png)
+![Open Kiosk Demo]([https://github.com/MukeshSankhla/Open-Kiosk/blob/main/images/DIY.png](https://github.com/MukeshSankhla/Open-Kiosk/blob/main/images/DIY.png?raw=true))
 
 **Build your own professional point-of-sale system for retail stores, market vendors, and pop-up shops!**
 
